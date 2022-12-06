@@ -26,7 +26,7 @@ With more members, we continue to develop an even more unique OS.
 - [x] `Settings` is to let us change stuff.
 
 ## Plans
-> 1.4
+> 1.4 <br>
 View the Project!
 
 ## Links
